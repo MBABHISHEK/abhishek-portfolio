@@ -1,0 +1,14 @@
+.Projects {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .Projects ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .Projects li {
+    margin: 10px;
+    font-size: 18px;
+  }
