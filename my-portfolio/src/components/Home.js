@@ -23,14 +23,14 @@ function Home() {
     <div className="Home">
       <div className="profile-section">
         <img
-          src="images/contibutor1.png"
+          src="./images/contibutor1.png"
           alt="My Photo"
           className="profile-photo"
         />
-        <h2>Hi, I'm Your Name</h2>
+        <h2>Hi, I'm Your Abhishek M B</h2>
         <p>
           Welcome to my portfolio. I am a passionate developer with a focus on
-          [Your Specialization].
+          Web Deveolpment,data science and Machine Learning.
         </p>
       </div>
 
